@@ -6,3 +6,8 @@ bin/
 .class
 .metadata
 .project
+.classpath
+.settings/
+.gif
+.html
+docs/
